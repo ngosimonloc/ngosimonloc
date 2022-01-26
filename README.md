@@ -1,4 +1,23 @@
-### Hi there 👋
+# Howdy There, it's me SIMON NGO! 😄
+
+## Interested in Learning
+- Gaming development
+- Comp Sci
+
+## Hobbies
+- Binge watching shows
+- Gaming
+- Skateboarding
+- Working
+
+## Current Projects working on
+- hangman
+
+
+
+
+
+
 
 <!--
 **ngosimonloc/ngosimonloc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
